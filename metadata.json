@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of SweatSmart Hyperhidrosis Analyzer",
+  "description": "An AI-powered app to analyze images of palms, feet, and soles for hyperhidrosis, providing severity assessment and personalized recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
